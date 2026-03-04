@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "declaring-variables",
+    "mutable-variables",
+    "playground",
+    "printing-hello-world",
+    "constants",
+    "primitive-data-types",
+    "converting-numerical-types"
+]
+resolver = "3"

@@ -6,6 +6,12 @@ members = [
     "printing-hello-world",
     "constants",
     "primitive-data-types",
-    "converting-numerical-types"
+    "converting-numerical-types",
+    "mathematical-operations",
+    "sum-of-array",
+    "tuples",
+    "the-unit-type",
+    "functions"
+    
 ]
 resolver = "3"

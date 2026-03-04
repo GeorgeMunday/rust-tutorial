@@ -24,6 +24,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "functions"
+version = "0.1.0"
+
+[[package]]
+name = "mathematical-operations"
+version = "0.1.0"
+
+[[package]]
 name = "mutable-variables"
 version = "0.1.0"
 
@@ -61,6 +69,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "sum-of-array"
+version = "0.1.0"
+
+[[package]]
 name = "syn"
 version = "2.0.117"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -81,6 +93,14 @@ dependencies = [
  "quote",
  "syn",
 ]
+
+[[package]]
+name = "the-unit-type"
+version = "0.1.0"
+
+[[package]]
+name = "tuples"
+version = "0.1.0"
 
 [[package]]
 name = "unicode-ident"

@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "rust-tutorial"
+name = "mutable-variables"
 version = "0.1.0"

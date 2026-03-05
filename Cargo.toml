@@ -11,7 +11,12 @@ members = [
     "sum-of-array",
     "tuples",
     "the-unit-type",
-    "functions"
-    
+    "functions",
+    "control-flow",
+    "ownership",
+    "mutable-references",
+    "ownership-rules",
+    "character-counting-string",
+    "slices",
 ]
 resolver = "3"

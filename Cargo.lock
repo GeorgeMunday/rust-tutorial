@@ -9,7 +9,15 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "7f202df86484c868dbad7eaa557ef785d5c66295e41b460ef922eca0723b842c"
 
 [[package]]
+name = "character-counting-string"
+version = "0.1.0"
+
+[[package]]
 name = "constants"
+version = "0.1.0"
+
+[[package]]
+name = "control-flow"
 version = "0.1.0"
 
 [[package]]
@@ -32,8 +40,23 @@ name = "mathematical-operations"
 version = "0.1.0"
 
 [[package]]
+name = "mutable-references"
+version = "0.1.0"
+
+[[package]]
 name = "mutable-variables"
 version = "0.1.0"
+
+[[package]]
+name = "ownership"
+version = "0.1.0"
+
+[[package]]
+name = "ownership-rules"
+version = "0.1.0"
+dependencies = [
+ "syntest",
+]
 
 [[package]]
 name = "playground"
@@ -67,6 +90,10 @@ checksum = "41f2619966050689382d2b44f664f4bc593e129785a36d6ee376ddf37259b924"
 dependencies = [
  "proc-macro2",
 ]
+
+[[package]]
+name = "slices"
+version = "0.1.0"
 
 [[package]]
 name = "sum-of-array"
